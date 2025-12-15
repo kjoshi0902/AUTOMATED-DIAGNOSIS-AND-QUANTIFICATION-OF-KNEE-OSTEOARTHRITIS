@@ -69,8 +69,6 @@ The architecture illustrates the complete workflow of the proposed system, inclu
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 - **Programming:** Python  
 - **Deep Learning:** TensorFlow / Keras  
