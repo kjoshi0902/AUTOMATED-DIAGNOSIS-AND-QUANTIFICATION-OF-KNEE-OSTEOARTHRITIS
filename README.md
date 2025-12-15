@@ -60,18 +60,12 @@ This project addresses these challenges by:
 ---
 
 ## 🏗️ Project Architecture
-X-ray Image
-↓
-Preprocessing (CLAHE + Filtering)
-↓
-┌───────────────┬────────────────┐
-│ Ensemble CNN │ Mask R-CNN │
-│ Classification│ Segmentation │
-└───────────────┴────────────────┘
-↓ ↓
-Severity JSW Measurement
-↓
-Final Clinical Output
+
+<p align="center">
+  <img src="assets/architecture_img.png" alt="Knee Osteoarthritis Project Architecture" width="900">
+</p>
+
+The architecture illustrates the complete workflow of the proposed system, including image preprocessing, ensemble-based classification, Mask R-CNN segmentation, and Joint Space Width (JSW) measurement for clinical severity assessment.
 
 ---
 
