@@ -1,4 +1,4 @@
-# 🦵 Automated Diagnosis and Quantification of Knee Osteoarthritis
+# 🩺 Automated Diagnosis and Quantification of Knee Osteoarthritis
 
 An **end-to-end deep learning system** for automated **Knee Osteoarthritis (KOA) diagnosis** from X-ray images, integrating **ensemble classification, anatomical segmentation, and quantitative Joint Space Width (JSW) measurement**.
 
